@@ -6,6 +6,8 @@
 [![Documentation](https://img.shields.io/badge/docs-comprehensive-blue)]()
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Backend%20%7C%20Hardware-orange)]()
 
+> **📌 UPDATE:** Project scope has been simplified based on user requirements. See [`PROJECT_SCOPE_SIMPLIFIED.md`](PROJECT_SCOPE_SIMPLIFIED.md) for the focused MVP plan (once-a-month utility submission app, manual entry, no hardware integration for v1).
+
 ## 🎯 Project Overview
 
 This project provides a complete solution for monitoring solar energy production, battery storage, and utility meter readings. The system consists of three main components:
